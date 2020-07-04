@@ -1,5 +1,5 @@
 # Mogo
-Adaptive layout with jQuery elements
+Adaptive layout with jQuery elements; 
 Technologies used in the project:
 • HTML
 • CSS
